@@ -8,8 +8,8 @@
 ### Blockquotes
 ### As Kanye West said:
 
-#### > We're living the future so
-#### > the present is our past.:paw_prints: :shipit:
+>We're living the future so
+>the present is our past.:paw_prints: :shipit:
 
 ```##GitHub.com uses its own version of the Markdown syntax that provides an additional 
 set of useful features, many of which make it easier to work with content on GitHub.com.
@@ -21,21 +21,20 @@ n Gist comments and in Gist Markdown files.##
 
 ```
 Hello World!
+
     [This is the Link](https://pages.github.com/)
 
 ```diff
-this is my first html github
+This is my first html github
 
 <html>
     <head>
       <title>
 + hello world
 - bye bye
-
       </title>
      </head>
     <body>
-
     </body>
  </html>
 ```

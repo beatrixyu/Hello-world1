@@ -1,17 +1,17 @@
 # Hello-world
 
-## 18-01-2019
+### 18-01-2019
 
-# ***~~Life is not fun~~***
+## ***~~Life is not fun!~~***
 ![image](https://img.niaobaike.com/Editor/2016-10-17/58047144d2398.jpg)
 
-Blockquotes
-As Kanye West said:
+### Blockquotes
+### As Kanye West said:
 
-> We're living the future so
-> the present is our past.:paw_prints: :shipit:
+#### > We're living the future so
+#### > the present is our past.:paw_prints: :shipit:
 
-```
+### ```
 GitHub.com uses its own version of the Markdown syntax that provides an additional 
 set of useful features, many of which make it easier to work with content on GitHub.com.
 
@@ -30,6 +30,7 @@ this is my first html github
       <title>
 + hello world
 - bye bye
+[Link](https://guides.github.com/features/mastering-markdown/)
       </title>
      </head>
     <body>

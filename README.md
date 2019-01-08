@@ -1,15 +1,15 @@
-# Hello-world1
+# Hello-world
 
 ## 18-01-2019
 
-# ***~~test~~***
+# ***~~Life is not fun~~***
 ![image](https://img.niaobaike.com/Editor/2016-10-17/58047144d2398.jpg)
 
 Blockquotes
 As Kanye West said:
 
 > We're living the future so
-> the present is our past.
+> the present is our past.:paw_prints: :shipit:
 
 ```
 GitHub.com uses its own version of the Markdown syntax that provides an additional 
@@ -21,28 +21,26 @@ as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also av
 n Gist comments and in Gist Markdown files.
 
 ```
-:paw_prints: :shipit:
 
-this is my first html
+```diff
+this is my first html github
 
 <html>
-    
     <head>
-    
       <title>
-      
 + hello world
 - bye bye
-
       </title>
-      
      </head>
-  
     <body>
-    
     </body>
-    
  </html>
-
-
-
+```
+This is the ruby test.
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+```
+  ```

@@ -3,7 +3,7 @@
 ### 18-01-2019
 
 ## ***~~Life is not fun!~~***
-@Hanna
+
 ![image](https://img.niaobaike.com/Editor/2016-10-17/58047144d2398.jpg)
 
 ### Blockquotes
@@ -50,8 +50,10 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+This is the table for team members
+@hanHeim
 
 | First Name | Second Name| Age |
 -------------|------------|-----|
 |     Bea    |    Blome   |  30 |
-|    Hanna   |    Babala  |  32 |
+|    Hanna   |    hanHeim |  32 |

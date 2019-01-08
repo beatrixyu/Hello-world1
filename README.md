@@ -21,6 +21,7 @@ n Gist comments and in Gist Markdown files.##
 
 ```
 Hello World!
+    [This is the Link](https://pages.github.com/)
 
 ```diff
 this is my first html github
@@ -31,11 +32,10 @@ this is my first html github
 + hello world
 - bye bye
 
-[This is the Link](https://pages.github.com/)
-
       </title>
      </head>
     <body>
+
     </body>
  </html>
 ```

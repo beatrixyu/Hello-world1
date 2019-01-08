@@ -11,14 +11,13 @@
 #### > We're living the future so
 #### > the present is our past.:paw_prints: :shipit:
 
-```
-### GitHub.com uses its own version of the Markdown syntax that provides an additional 
+```##GitHub.com uses its own version of the Markdown syntax that provides an additional 
 set of useful features, many of which make it easier to work with content on GitHub.com.
 
 Note that some features of GitHub Flavored Markdown are only available in the 
 descriptions and comments of Issues and Pull Requests. These include @mentions as well
 as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available 
-n Gist comments and in Gist Markdown files.
+n Gist comments and in Gist Markdown files.##
 
 ```
 Hello World!
@@ -31,7 +30,9 @@ this is my first html github
       <title>
 + hello world
 - bye bye
-[Link](https://guides.github.com/features/mastering-markdown/)
+
+[This is the Link](https://pages.github.com/)
+
       </title>
      </head>
     <body>
@@ -46,5 +47,3 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
-```
-  ```
